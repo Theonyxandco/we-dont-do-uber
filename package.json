@@ -6,7 +6,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "remix vite:build",  // Byggkommandot för Remix och Vite
+    "build": "remix vite:build",  
     "preview": "vite preview"
   },
   "dependencies": {
@@ -14,10 +14,10 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.1",
     "framer-motion": "^10.16.1",
-    "@remix-run/vite": "^1.0.0"  // Remix plugin för Vite
+    "@remix-run/vite": "^1.0.0"  
   },
   "devDependencies": {
-    "vite": "^4.4.9",  // Vite för byggprocessen
+    "vite": "^4.4.9",  
     "tailwindcss": "^3.4.1",
     "postcss": "^8.4.24",
     "autoprefixer": "^10.4.15",
