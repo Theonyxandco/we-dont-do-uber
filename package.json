@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "engines": {
     "node": "16.x",
-    "go": "1.19"  // Lägg till Go om du behöver det, annars kan du ta bort detta
+    "go": "1.19"  // 
   },
   "scripts": {
     "dev": "vite",
