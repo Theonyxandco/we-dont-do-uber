@@ -1,8 +1,9 @@
-{
+{{
   "name": "elegance-drive-3d",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "go": "1.19"  // Här kan du justera Go-versionen om du behöver
   },
   "scripts": {
     "dev": "vite",
@@ -20,6 +21,4 @@
     "tailwindcss": "^3.4.1",
     "postcss": "^8.4.24",
     "autoprefixer": "^10.4.15",
-    "@vitejs/plugin-react": "^4.1.0"
-  }
-}
+    "@vitejs/plugin-react": "^4.1.0"}
