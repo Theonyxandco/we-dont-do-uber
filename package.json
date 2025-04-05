@@ -24,3 +24,16 @@
     "@vitejs/plugin-react": "^4.1.0"
   }
 }
+
+zsh: permission denied: /Users/adullahihussein/Desktop/package.json
+npm error code ENOENT
+npm error syscall open
+npm error path /Users/adullahihussein/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/Users/adullahihussein/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /Users/adullahihussein/.npm/_logs/2025-04-05T21_50_04_989Z-debug-0.log
+adullahihussein@MacBook-Air-som-tillhor-Adullahi ~ % 
+
+
