@@ -2,13 +2,13 @@
   "name": "elegance-drive-3d",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x",  // Specificerar Node.js version
-    "go": "1.19"     // Specificerar Go version 1.19
+    "node": "16.x",
+    "go": "1.19"  // Lägg till Go om du behöver det, annars kan du ta bort detta
   },
   "scripts": {
-    "dev": "vite",      // Startar utvecklingsservern
-    "build": "vite build",  // Bygger projektet
-    "preview": "vite preview"  // För att förhandsgranska den byggda versionen
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
